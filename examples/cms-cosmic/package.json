@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "classnames": "2.3.1",
-    "cosmicjs": "^3.2.43",
+    "cosmicjs": "^5.0.1",
     "date-fns": "2.22.1",
     "lazysizes": "^5.2.1-rc2",
     "next": "latest",
