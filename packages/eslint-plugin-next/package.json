@@ -12,7 +12,7 @@
     "lib"
   ],
   "dependencies": {
-    "glob": "7.1.7"
+    "glob": "9.0.0"
   },
   "devDependencies": {
     "@types/eslint": "7.28.0"
